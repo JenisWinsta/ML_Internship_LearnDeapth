@@ -58,7 +58,7 @@ How to Run
 
 Run the following command from the project directory:
 
-   `python main.py`   
+   ```python main.py```   
 
 Follow the menu options to add books, update reading progress, and view the dashboard.
 
